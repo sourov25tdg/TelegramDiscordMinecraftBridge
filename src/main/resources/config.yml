@@ -1,0 +1,13 @@
+telegram:
+  enabled: true
+  bot-token: "PUT_NEW_TELEGRAM_BOT_TOKEN_HERE"
+  admin-id: "8751002531"
+
+discord:
+  enabled: true
+  bot-token: "PUT_DISCORD_BOT_TOKEN_HERE"
+  guild-id: "PUT_DISCORD_GUILD_ID_HERE"
+  panel-channel-id: "PUT_DISCORD_CHANNEL_ID_HERE"
+
+minecraft:
+  forward-chat: true
